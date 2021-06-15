@@ -2,7 +2,6 @@ pytrends
 pandas
 matplotlib
 datetime
-time
 seaborn
-ipwidgetes
+ipywidgetes
 voila
